@@ -1,0 +1,10 @@
+{
+  "name": "EZCodeURLCopy",
+  "description": "Copy page URL based on a selection",
+  "version": "0.1",
+  "permissions": ["contextMenus", "clipboardWrite"],
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "manifest_version": 2
+}
